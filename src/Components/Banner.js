@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import Artist from "../img/artist.jpg";
 import Check from "../img/check.png";
